@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What is a raw data value with context called?",
+    "options": [
+      "information",
+      "noise",
+      "hardware",
+      "format"
+    ],
+    "answer": "information"
+  },
+  {
+    "question": "Which file format is commonly used for tabular text data?",
+    "options": [
+      "CSV",
+      "MP4",
+      "PNG",
+      "WAV"
+    ],
+    "answer": "CSV"
+  },
+  {
+    "question": "What does the transform step in ETL usually do?",
+    "options": [
+      "clean and standardize data",
+      "delete all data",
+      "compile code",
+      "replace the database engine"
+    ],
+    "answer": "clean and standardize data"
+  }
+]
